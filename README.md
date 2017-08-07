@@ -17,7 +17,9 @@ This tool is useful to provide a different color than the original and able to d
 
 
 
-### Support or Contact
+## Support or Contact
 
-[Facebook](https://www.facebook.com/MarmisDev) or [Gmail](marmisdev@gmail.com).
+![Image](https://p-store.net/images/facebook.png) [MarmisDev](https://www.facebook.com/MarmisDev)
+
+![Image](http://www.builtinchicago.org/sites/all/themes/bic/res/img/invite-gmail-icon.png) marmisdev@gmail.com
 
