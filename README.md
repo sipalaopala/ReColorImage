@@ -22,6 +22,16 @@ This tool is useful to provide a different color than the original and able to d
 
 
 ## Changelog
+
+### [0.0.5] **Release** Aug 14, 2017
+```
+Fix
+- RGB value
+- HSL value
+- Text box R,G,B 
+- Text box H,S,L
+```
+
 ### [0.0.4] Aug 10, 2017
 ```
 Fix
